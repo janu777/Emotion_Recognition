@@ -12,6 +12,14 @@ Categories: (0=Angry, 1=Disgust, 2=Fear, 3=Happy, 4=Sad, 5=Surprise, 6=Neutral)
 
 Download Link: https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge
 
+# Dependencies:
+
+1.https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_alt.xml
+
+2.TensorFlow: https://www.tensorflow.org/install/install_linux
+
+3.Python
+
 # Description:
 
 1.Downsample the images to 28x28x1 resolution
