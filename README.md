@@ -36,6 +36,10 @@ Download Link: https://www.kaggle.com/c/challenges-in-representation-learning-fa
 
 7.Test Accuracy: 41%
 
+# Usage:
+
+python main.py
+
 # Performance Output:
 ![f2207](https://user-images.githubusercontent.com/29327349/30575523-f9469080-9d1e-11e7-8d8f-764a16f7aa75.jpg)
 ![f2737](https://user-images.githubusercontent.com/29327349/30575540-2294cdee-9d1f-11e7-88b4-bfef616dfbcb.jpg)
