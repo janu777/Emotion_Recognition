@@ -35,5 +35,7 @@ Download Link: https://www.kaggle.com/c/challenges-in-representation-learning-fa
 ![f4232](https://user-images.githubusercontent.com/29327349/30575551-3ced8438-9d1f-11e7-861a-e487d5c44914.jpg)
 ![f6406](https://user-images.githubusercontent.com/29327349/30575557-4907f910-9d1f-11e7-9bd3-5be6915b05f5.jpg)
 ![f7250](https://user-images.githubusercontent.com/29327349/30575565-56c4d5fa-9d1f-11e7-9fe3-c2eaef7b74bd.jpg)
-References:
+
+# References:
+
 van Gent, P. (2016). Emotion Recognition With Python, OpenCV and a Face Dataset. A tech blog about fun things with Python and embedded electronics.
