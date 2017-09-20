@@ -14,7 +14,7 @@ Download Link: https://www.kaggle.com/c/challenges-in-representation-learning-fa
 
 # Dependencies:
 
-1.https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_alt.xml
+1.https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml
 
 2.TensorFlow: https://www.tensorflow.org/install/install_linux
 
