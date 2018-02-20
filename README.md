@@ -40,13 +40,6 @@ Download Link: https://www.kaggle.com/c/challenges-in-representation-learning-fa
 
 python main.py
 
-# Performance Output:
-![f110](https://user-images.githubusercontent.com/29327349/30577575-cc2c0252-9d2c-11e7-8664-cac6c92349dd.jpg)
-![f244](https://user-images.githubusercontent.com/29327349/30577576-cf73c1f2-9d2c-11e7-8666-980b3bfed617.jpg)
-![f1414](https://user-images.githubusercontent.com/29327349/30577578-d2b87aba-9d2c-11e7-8ba0-c7a6db366ed2.jpg)
-![f3252](https://user-images.githubusercontent.com/29327349/30577581-d5abae5e-9d2c-11e7-911e-b8d932e0ea1b.jpg)
-![f339](https://user-images.githubusercontent.com/29327349/30577585-da63b630-9d2c-11e7-96fd-29bfec0980f9.jpg)
-![f924](https://user-images.githubusercontent.com/29327349/30577587-df45977c-9d2c-11e7-96f9-c2b00dda3fe7.jpg)
 
 # References:
 
